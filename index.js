@@ -41,3 +41,5 @@ const { jest } = require("config");
 const { jest } = require("scripts");
 
 const { jest } = require("test");
+
+const { jest } = require("test3");
