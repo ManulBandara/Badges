@@ -6,3 +6,5 @@ function add(a, b) {
 
 module.exports = add;
 // Path: index.test.js
+
+const add = require("./index");
