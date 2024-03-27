@@ -1,2 +1,5 @@
+console.log("Hello World!");
 
-const pair = "New branch";
+function add(a, b) {
+  return a + b;
+}
