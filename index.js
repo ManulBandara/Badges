@@ -35,3 +35,5 @@ package.json
 const { jest } = require("jest");
 
 const { jest } = require("version");
+
+const { jest } = require("config");
