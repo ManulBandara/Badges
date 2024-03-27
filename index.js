@@ -31,3 +31,6 @@ const { jest } = require("jest");
 
 
 package.json
+
+const { jest } = require("jest");
+
